@@ -5,7 +5,7 @@ A tic tac toe game designed using object oriented programming in ruby
 - Ruby
 
 
-## Contributors
+## Developers
 
 * [Adama Chubiyojo Desmond](https://github.com/kobiyoyo)[(Email)](mailto:Adamachubi@gmail.com)
 
