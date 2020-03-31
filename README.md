@@ -5,9 +5,11 @@ A tic tac toe game designed using object oriented programming in ruby
 - Ruby
 
 
-## Author
-[Danilo Zagarcanin ](https://github.com/danilozag1992)
-[Adama Chubiyojo Desmond](https://github.com/kobiyoyo)
+## Contributors
+
+* [Adama Chubiyojo Desmond](https://github.com/kobiyoyo)[(Email)](mailto:Adamachubi@gmail.com)
+
+* [Danilo Zagarcanin ](https://github.com/danilozag1992)[(Email)](mailto:danilozagarcanin@gmail.com)
 
 ## Instructions
 - To play Tic-tac-toe, cd into the /bin directory 
