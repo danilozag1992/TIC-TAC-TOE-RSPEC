@@ -52,3 +52,6 @@ See http://rspec.info/documentation/ for links to documentation for all gems.
 
     rspec --init
 
+## Show your support
+
+Give a ⭐️ if you like this project!
