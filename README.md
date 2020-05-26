@@ -51,7 +51,17 @@ See http://rspec.info/documentation/ for links to documentation for all gems.
 ## Setup
 
     rspec --init
+> Finally, run the test suite to verify that everything is working correctly:
 
+```
+$ rspec
+
+```
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Contact
+[Email](mailto:danilozagarcanin@gmail.com)
+[Linkedin](https://www.linkedin.com/in/danilo-zagarcanin-88169b185/)
+[Twitter](https://twitter.com/danilo96061514)
