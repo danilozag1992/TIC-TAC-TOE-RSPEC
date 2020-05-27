@@ -18,7 +18,7 @@ This project was completed in line with standards provided by [Microverse](https
 ## Instructions
 - To play Tic-tac-toe, cd into the /bin directory 
 - run the main.rb file. ( ruby main.rb in terminal to get started)
-- To test run this on terminal rspec 
+- To test run this on terminal RSpec 
 # RSpec
 
 Behaviour Driven Development for Ruby
